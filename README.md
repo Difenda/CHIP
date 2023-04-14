@@ -4,7 +4,10 @@ Cyber Health Information and Posture (CHIP) is a Power BI Report built to help o
 
 ## Documenation
 1. Open the Template File
-1. Input your TenantId - [See documentation to find TenantId](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
+1. Input Parameters
+   1. Input your TenantId - [See documentation to find TenantId](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
+   1. Sentinel Workspace Id - [Find your Workspace Id](https://learn.microsoft.com/en-us/azure/sentinel/create-custom-connector#find-your-workspace-id-and-key)
+   <img width="531" alt="image" src="https://user-images.githubusercontent.com/106833847/232038579-558982e5-0233-4a21-8f74-56b1accad1ee.png">
 1. Authenticate to the datasources
    1. Select Organizational Account, and provide it with credentials that have Global Reader and Security Reader.
    1. You will have to do this multiple times the first time you load the report
