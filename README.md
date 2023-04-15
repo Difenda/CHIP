@@ -27,7 +27,7 @@ Publishing to the Power BI Service allows you to easily share the report with ot
 
 ## Microsoft "Scores" Information
 
-1. Exposure Score
-2. Secure Score
+1. Organization Exposure Score - This score reflects the current exposure associated with devices in your organization. The score is potentially impacted by active exceptions.
+2. Secure Score for Devices - This score reflects the collective security configuration posture of your devices across OS, Application, Network, Accounts and Security Controls Score is potentially impacted by active exceptions.
 3. Cloud Secure Score
 
